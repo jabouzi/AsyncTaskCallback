@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2085eb53410ca87318c736cc33bba8ac46f8591f">
+        <dex dex="/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16e642b0e7715e4dbef212d002717fb40ed1f237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_f0ca5d5e2644e3a98eb204fe225e468fa2f2f99a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="774c0b875b89b989badf6ecb4765e145094e8944">
+        <dex dex="/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f15b1ac551c8a2688731696c181ea9dac5b055a5/classes.dex" />
+    </item>
+
+</items>

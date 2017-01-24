@@ -1,0 +1,7 @@
+#Tue Jan 24 11:25:36 EST 2017
+base.0=/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16e642b0e7715e4dbef212d002717fb40ed1f237
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f15b1ac551c8a2688731696c181ea9dac5b055a5/classes.dex
+base.1=/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f15b1ac551c8a2688731696c181ea9dac5b055a5
+file.0=/Users/dev/Developments/Android/AndroidCallback/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_16e642b0e7715e4dbef212d002717fb40ed1f237/classes.dex
